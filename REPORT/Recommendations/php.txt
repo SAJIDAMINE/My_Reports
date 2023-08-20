@@ -1,0 +1,10 @@
+http://www.moncallcenter.ma/centres-appels.php
+http://www.moncallcenter.ma/centres.php
+http://moncallcenter.ma/cgu.php
+https://www.moncallcenter.ma/components/profile/form.loger.profil.php
+http://www.moncallcenter.ma/components/profile/insert_pr_acc.php
+http://www.moncallcenter.ma/components/v_existe.php
+http://moncallcenter.ma/contact.php
+http://www.moncallcenter.ma/feed/jobzeen.php
+http://www.moncallcenter.ma/index.php
+http://www.moncallcenter.ma/passe-oublie.php
